@@ -26,5 +26,7 @@ Group 26's project
   3) High-Level Design/Architecture:
   - Need front end window design (each screen and how it connects/links to other pages) with description of what each page does (basically a wire diagram)
 
+![alt text](https://github.com/TaisharTexas/COSC4351_G26_Project/blob/main/image.jpg)
+
 ### Notes:
 None of us have any experience with using react-like frameworks such as Flutter so this entire project will entail on the fly learning as we progress. Because of this parts of how exactly this design is executed will probably change as we learn more but the core functionality needs remain the same (which is why waterfall is still a valid development method). 
