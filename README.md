@@ -25,6 +25,7 @@ Group 26's project
 
   3) High-Level Design/Architecture:
   - Need front end window design (each screen and how it connects/links to other pages) with description of what each page does (basically a wire diagram)
+  - Consider integrating Firebase Authentication for account creation, login, and profile management.
 
 ![alt text](https://github.com/TaisharTexas/COSC4351_G26_Project/blob/main/image.jpg)
 
