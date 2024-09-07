@@ -4,8 +4,7 @@ Group 26's project
 
 ## Assignment 1 thoughts
 
-Initial Thoughts:
-
+1) Initial Thoughts:
 - Basic website interface front end UI with Flutter and backend database with Firebase
 
 1a) User Experience:
